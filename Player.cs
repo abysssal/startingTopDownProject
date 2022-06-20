@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float hp;
     public float speed;
     public float jumpTime;
 
