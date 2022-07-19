@@ -5,7 +5,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed;
-    public float jumpTime;
 
     public Rigidbody2D rb;
 
