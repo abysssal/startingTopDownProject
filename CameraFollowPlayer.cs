@@ -11,6 +11,7 @@ public class CameraFollowPlayer : MonoBehaviour
 
     private void Awake()
     {
+        // Change the ("Player") to the name of the thing you want the camera follow
         player = GameObject.Find("Player").GetComponent<Transform>();
     }
 
