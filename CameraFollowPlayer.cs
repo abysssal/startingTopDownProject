@@ -5,7 +5,6 @@ using UnityEngine;
 public class CameraFollowPlayer : MonoBehaviour
 {
     public Transform player;
-
     // Set the camera offset Z value to -10 or lower
     public Vector3 cameraOffset;
     public float cameraSpeed = 0.1f;
